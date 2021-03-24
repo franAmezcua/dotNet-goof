@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "7915eccb8ff2559294f03dc668df6ab7912a5826"
+    "signature": ""
   },
   "compilationOptions": {},
   "targets": {
@@ -38,271 +38,271 @@
             "rid": "win-arm",
             "assetType": "runtime",
             "assemblyVersion": "1.0.0.0",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.16299.15"
           },
           "runtimes/win-arm/lib/netstandard1.6/Microsoft.Management.Infrastructure.dll": {
             "rid": "win-arm",
             "assetType": "runtime",
             "assemblyVersion": "1.0.0.0",
-            "fileVersion": "10.0.10011.16384"
+            "fileVersion": "10.0.16299.15"
           },
           "runtimes/win-arm64/lib/netstandard1.6/Microsoft.Management.Infrastructure.Native.dll": {
             "rid": "win-arm64",
             "assetType": "runtime",
             "assemblyVersion": "1.0.0.0",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.16299.15"
           },
           "runtimes/win-arm64/lib/netstandard1.6/Microsoft.Management.Infrastructure.dll": {
             "rid": "win-arm64",
             "assetType": "runtime",
             "assemblyVersion": "1.0.0.0",
-            "fileVersion": "10.0.10011.16384"
+            "fileVersion": "10.0.16299.15"
           },
           "runtimes/win10-x64/lib/netstandard1.6/Microsoft.Management.Infrastructure.Native.dll": {
             "rid": "win10-x64",
             "assetType": "runtime",
             "assemblyVersion": "1.0.0.0",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.16299.15"
           },
           "runtimes/win10-x64/lib/netstandard1.6/Microsoft.Management.Infrastructure.dll": {
             "rid": "win10-x64",
             "assetType": "runtime",
             "assemblyVersion": "1.0.0.0",
-            "fileVersion": "10.0.10011.16384"
+            "fileVersion": "10.0.16299.15"
           },
           "runtimes/win10-x86/lib/netstandard1.6/Microsoft.Management.Infrastructure.Native.dll": {
             "rid": "win10-x86",
             "assetType": "runtime",
             "assemblyVersion": "1.0.0.0",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.16299.15"
           },
           "runtimes/win10-x86/lib/netstandard1.6/Microsoft.Management.Infrastructure.dll": {
             "rid": "win10-x86",
             "assetType": "runtime",
             "assemblyVersion": "1.0.0.0",
-            "fileVersion": "10.0.10011.16384"
+            "fileVersion": "10.0.16299.15"
           },
           "runtimes/win7-x64/lib/netstandard1.6/Microsoft.Management.Infrastructure.Native.dll": {
             "rid": "win7-x64",
             "assetType": "runtime",
             "assemblyVersion": "1.0.0.0",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.16299.15"
           },
           "runtimes/win7-x64/lib/netstandard1.6/Microsoft.Management.Infrastructure.dll": {
             "rid": "win7-x64",
             "assetType": "runtime",
             "assemblyVersion": "1.0.0.0",
-            "fileVersion": "10.0.10011.16384"
+            "fileVersion": "10.0.16299.15"
           },
           "runtimes/win7-x86/lib/netstandard1.6/Microsoft.Management.Infrastructure.Native.dll": {
             "rid": "win7-x86",
             "assetType": "runtime",
             "assemblyVersion": "1.0.0.0",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.16299.15"
           },
           "runtimes/win7-x86/lib/netstandard1.6/Microsoft.Management.Infrastructure.dll": {
             "rid": "win7-x86",
             "assetType": "runtime",
             "assemblyVersion": "1.0.0.0",
-            "fileVersion": "10.0.10011.16384"
+            "fileVersion": "10.0.16299.15"
           },
           "runtimes/win8-x64/lib/netstandard1.6/Microsoft.Management.Infrastructure.Native.dll": {
             "rid": "win8-x64",
             "assetType": "runtime",
             "assemblyVersion": "1.0.0.0",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.16299.15"
           },
           "runtimes/win8-x64/lib/netstandard1.6/Microsoft.Management.Infrastructure.dll": {
             "rid": "win8-x64",
             "assetType": "runtime",
             "assemblyVersion": "1.0.0.0",
-            "fileVersion": "10.0.10011.16384"
+            "fileVersion": "10.0.16299.15"
           },
           "runtimes/win8-x86/lib/netstandard1.6/Microsoft.Management.Infrastructure.Native.dll": {
             "rid": "win8-x86",
             "assetType": "runtime",
             "assemblyVersion": "1.0.0.0",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.16299.15"
           },
           "runtimes/win8-x86/lib/netstandard1.6/Microsoft.Management.Infrastructure.dll": {
             "rid": "win8-x86",
             "assetType": "runtime",
             "assemblyVersion": "1.0.0.0",
-            "fileVersion": "10.0.10011.16384"
+            "fileVersion": "10.0.16299.15"
           },
           "runtimes/win81-x64/lib/netstandard1.6/Microsoft.Management.Infrastructure.Native.dll": {
             "rid": "win81-x64",
             "assetType": "runtime",
             "assemblyVersion": "1.0.0.0",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.16299.15"
           },
           "runtimes/win81-x64/lib/netstandard1.6/Microsoft.Management.Infrastructure.dll": {
             "rid": "win81-x64",
             "assetType": "runtime",
             "assemblyVersion": "1.0.0.0",
-            "fileVersion": "10.0.10011.16384"
+            "fileVersion": "10.0.16299.15"
           },
           "runtimes/win81-x86/lib/netstandard1.6/Microsoft.Management.Infrastructure.Native.dll": {
             "rid": "win81-x86",
             "assetType": "runtime",
             "assemblyVersion": "1.0.0.0",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.16299.15"
           },
           "runtimes/win81-x86/lib/netstandard1.6/Microsoft.Management.Infrastructure.dll": {
             "rid": "win81-x86",
             "assetType": "runtime",
             "assemblyVersion": "1.0.0.0",
-            "fileVersion": "10.0.10011.16384"
+            "fileVersion": "10.0.16299.15"
           },
           "runtimes/win-arm/native/Microsoft.Management.Infrastructure.Native.Unmanaged.dll": {
             "rid": "win-arm",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.16299.15"
           },
           "runtimes/win-arm/native/mi.dll": {
             "rid": "win-arm",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.16299.15"
           },
           "runtimes/win-arm/native/miutils.dll": {
             "rid": "win-arm",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.16299.15"
           },
           "runtimes/win-arm64/native/Microsoft.Management.Infrastructure.Native.Unmanaged.dll": {
             "rid": "win-arm64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.16299.15"
           },
           "runtimes/win-arm64/native/mi.dll": {
             "rid": "win-arm64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.16299.15"
           },
           "runtimes/win-arm64/native/miutils.dll": {
             "rid": "win-arm64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.16299.15"
           },
           "runtimes/win10-x64/native/Microsoft.Management.Infrastructure.Native.Unmanaged.dll": {
             "rid": "win10-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.14886.1000"
           },
           "runtimes/win10-x64/native/mi.dll": {
             "rid": "win10-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.14886.1000"
           },
           "runtimes/win10-x64/native/miutils.dll": {
             "rid": "win10-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.14886.1000"
           },
           "runtimes/win10-x86/native/Microsoft.Management.Infrastructure.Native.Unmanaged.dll": {
             "rid": "win10-x86",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.14394.1000"
           },
           "runtimes/win10-x86/native/mi.dll": {
             "rid": "win10-x86",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.14394.1000"
           },
           "runtimes/win10-x86/native/miutils.dll": {
             "rid": "win10-x86",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.14394.1000"
           },
           "runtimes/win7-x64/native/Microsoft.Management.Infrastructure.Native.Unmanaged.dll": {
             "rid": "win7-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.14394.1000"
           },
           "runtimes/win7-x64/native/mi.dll": {
             "rid": "win7-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.14394.1000"
           },
           "runtimes/win7-x64/native/miutils.dll": {
             "rid": "win7-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.14394.1000"
           },
           "runtimes/win7-x86/native/Microsoft.Management.Infrastructure.Native.Unmanaged.dll": {
             "rid": "win7-x86",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.14394.1000"
           },
           "runtimes/win7-x86/native/mi.dll": {
             "rid": "win7-x86",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.14394.1000"
           },
           "runtimes/win7-x86/native/miutils.dll": {
             "rid": "win7-x86",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.14394.1000"
           },
           "runtimes/win8-x64/native/Microsoft.Management.Infrastructure.Native.Unmanaged.dll": {
             "rid": "win8-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.14394.1000"
           },
           "runtimes/win8-x64/native/mi.dll": {
             "rid": "win8-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.14394.1000"
           },
           "runtimes/win8-x64/native/miutils.dll": {
             "rid": "win8-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.14394.1000"
           },
           "runtimes/win8-x86/native/Microsoft.Management.Infrastructure.Native.Unmanaged.dll": {
             "rid": "win8-x86",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.14394.1000"
           },
           "runtimes/win8-x86/native/mi.dll": {
             "rid": "win8-x86",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.14394.1000"
           },
           "runtimes/win8-x86/native/miutils.dll": {
             "rid": "win8-x86",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.14394.1000"
           },
           "runtimes/win81-x64/native/Microsoft.Management.Infrastructure.Native.Unmanaged.dll": {
             "rid": "win81-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.14394.1000"
           },
           "runtimes/win81-x64/native/mi.dll": {
             "rid": "win81-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.14394.1000"
           },
           "runtimes/win81-x64/native/miutils.dll": {
             "rid": "win81-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.14394.1000"
           },
           "runtimes/win81-x86/native/Microsoft.Management.Infrastructure.Native.Unmanaged.dll": {
             "rid": "win81-x86",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.14394.1000"
           },
           "runtimes/win81-x86/native/mi.dll": {
             "rid": "win81-x86",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.14394.1000"
           },
           "runtimes/win81-x86/native/miutils.dll": {
             "rid": "win81-x86",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.14394.1000"
           }
         }
       },
@@ -327,7 +327,7 @@
             "rid": "osx",
             "assetType": "runtime",
             "assemblyVersion": "6.1.0.0",
-            "fileVersion": "6.1.0.0"
+            "fileVersion": "0.0.0.0"
           },
           "runtimes/win-arm/lib/netstandard2.0/Microsoft.PowerShell.CoreCLR.Eventing.dll": {
             "rid": "win-arm",
@@ -395,12 +395,12 @@
           "runtimes/win-arm/native/PowerShell.Core.Instrumentation.dll": {
             "rid": "win-arm",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.10011.16384"
           },
           "runtimes/win-arm/native/pwrshplugin.dll": {
             "rid": "win-arm",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.10011.16384"
           },
           "runtimes/win-arm/native/pwrshplugin.pdb": {
             "rid": "win-arm",
@@ -410,12 +410,12 @@
           "runtimes/win-arm64/native/PowerShell.Core.Instrumentation.dll": {
             "rid": "win-arm64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.10011.16384"
           },
           "runtimes/win-arm64/native/pwrshplugin.dll": {
             "rid": "win-arm64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.10011.16384"
           },
           "runtimes/win-arm64/native/pwrshplugin.pdb": {
             "rid": "win-arm64",
@@ -425,12 +425,12 @@
           "runtimes/win-x64/native/PowerShell.Core.Instrumentation.dll": {
             "rid": "win-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.10011.16384"
           },
           "runtimes/win-x64/native/pwrshplugin.dll": {
             "rid": "win-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.10011.16384"
           },
           "runtimes/win-x64/native/pwrshplugin.pdb": {
             "rid": "win-x64",
@@ -440,12 +440,12 @@
           "runtimes/win-x86/native/PowerShell.Core.Instrumentation.dll": {
             "rid": "win-x86",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.10011.16384"
           },
           "runtimes/win-x86/native/pwrshplugin.dll": {
             "rid": "win-x86",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "10.0.10011.16384"
           },
           "runtimes/win-x86/native/pwrshplugin.pdb": {
             "rid": "win-x86",
@@ -458,16 +458,6 @@
         "dependencies": {
           "System.Security.AccessControl": "4.5.0",
           "System.Security.Principal.Windows": "4.5.0"
-        },
-        "runtimeTargets": {
-          "runtime/unix/lib/_._": {
-            "rid": "unix",
-            "assetType": "runtime"
-          },
-          "runtime/win/lib/_._": {
-            "rid": "win",
-            "assetType": "runtime"
-          }
         }
       },
       "Microsoft.Win32.Registry.AccessControl/4.5.0": {
@@ -599,12 +589,6 @@
         "dependencies": {
           "System.Security.AccessControl": "4.5.0",
           "System.Security.Principal.Windows": "4.5.0"
-        },
-        "runtimeTargets": {
-          "runtime/win/lib/_._": {
-            "rid": "win",
-            "assetType": "runtime"
-          }
         }
       },
       "System.IO.FileSystem.Primitives/4.3.0": {
@@ -674,7 +658,7 @@
             "rid": "osx",
             "assetType": "runtime",
             "assemblyVersion": "6.1.0.0",
-            "fileVersion": "6.1.0.0"
+            "fileVersion": "0.0.0.0"
           },
           "runtimes/win-arm/lib/netstandard2.0/System.Management.Automation.dll": {
             "rid": "win-arm",
@@ -791,7 +775,7 @@
         "runtime": {
           "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
             "assemblyVersion": "4.0.4.0",
-            "fileVersion": "4.0.0.0"
+            "fileVersion": "0.0.0.0"
           }
         }
       },
@@ -837,22 +821,9 @@
       "System.Security.AccessControl/4.5.0": {
         "dependencies": {
           "System.Security.Principal.Windows": "4.5.0"
-        },
-        "runtimeTargets": {
-          "runtime/win/lib/_._": {
-            "rid": "win",
-            "assetType": "runtime"
-          }
         }
       },
-      "System.Security.Cryptography.Cng/4.5.0": {
-        "runtimeTargets": {
-          "runtime/win/lib/_._": {
-            "rid": "win",
-            "assetType": "runtime"
-          }
-        }
-      },
+      "System.Security.Cryptography.Cng/4.5.0": {},
       "System.Security.Cryptography.Pkcs/4.5.0": {
         "dependencies": {
           "System.Security.Cryptography.Cng": "4.5.0"
@@ -910,18 +881,7 @@
           }
         }
       },
-      "System.Security.Principal.Windows/4.5.0": {
-        "runtimeTargets": {
-          "runtime/unix/lib/_._": {
-            "rid": "unix",
-            "assetType": "runtime"
-          },
-          "runtime/win/lib/_._": {
-            "rid": "win",
-            "assetType": "runtime"
-          }
-        }
-      },
+      "System.Security.Principal.Windows/4.5.0": {},
       "System.Security.SecureString/4.3.0": {
         "dependencies": {
           "System.Resources.ResourceManager": "4.3.0",
@@ -931,16 +891,6 @@
           "System.Security.Cryptography.Primitives": "4.3.0",
           "System.Text.Encoding": "4.3.0",
           "System.Threading": "4.3.0"
-        },
-        "runtimeTargets": {
-          "runtime/unix/lib/_._": {
-            "rid": "unix",
-            "assetType": "runtime"
-          },
-          "runtime/win/lib/_._": {
-            "rid": "win",
-            "assetType": "runtime"
-          }
         }
       },
       "System.Text.Encoding/4.3.0": {
@@ -1489,7 +1439,7 @@
     "System.Xml.XmlSerializer/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-VShQJhOxgD/5M2Z1IWm1vMaSqlbjo1zdFf8H7Ahte6bTvSUhUko/gDpAVVhGgGgTDeue4QyNg1fu1Zz2GKSEuQ==",
+      "sha512": "sha512-MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     }
